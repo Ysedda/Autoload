@@ -1,0 +1,14 @@
+{
+    "name": "arthur/psr4-autoload",
+    "description": "Composer quest",
+    "authors": [
+        {
+            "name": "Ysedda",
+            "email": "arthur.baudoin@icloud.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {"App\\": "src/"}
+    }
+}
